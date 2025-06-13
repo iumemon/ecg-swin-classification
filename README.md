@@ -1,4 +1,4 @@
-# Enhancing Swin-B for Imbalanced ECG Classification: Softened Sampling, Class-Balanced Focal Loss, and ECG-Specific Augmentations
+# Enhancing Swin Transformer for Imbalanced ECG Classification: Softened Sampling, Class-Balanced Focal Loss, and ECG-Specific Augmentations
 
 This project implements a deep learning model for ECG signal classification using the Swin Transformer architecture. The model is specifically designed to handle class imbalance and improve performance on atrial patterns.
 
@@ -286,10 +286,10 @@ SOFTWARE.
 
 If you use this code in your research, please cite:
 ```bibtex
-@software{memon_ecg_swin_2024,
+@software{memon_ecg_swin_2025,
   author = {Memon, Irfanullah},
-  title = {Enhancing Swin-B for Imbalanced ECG Classification: Softened Sampling, Class-Balanced Focal Loss, and ECG-Specific Augmentations},
-  year = {2024},
+  title = {Enhancing Swin Transformer for Imbalanced ECG Classification: Softened Sampling, Class-Balanced Focal Loss, and ECG-Specific Augmentations},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/iumemon/ecg-swin-classification},
   note = {An improved implementation of ECG classification using Swin Transformer V2 with enhanced class imbalance handling and atrial pattern recognition}
