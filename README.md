@@ -91,7 +91,7 @@ The project implements multiple strategies to address class imbalance:
 
 ### Training
 ```bash
-python swin_b_improved_v2.py --train [options]
+python ecg_classification.py --train [options]
 ```
 
 Options:
@@ -107,7 +107,7 @@ Options:
 
 ### Evaluation
 ```bash
-python swin_b_improved_v2.py --evaluate-test [options]
+python ecg_classification.py --evaluate-test [options]
 ```
 
 Options:
@@ -118,7 +118,7 @@ Options:
 
 ### Plot Regeneration
 ```bash
-python swin_b_improved_v2.py --regenerate-plots [options]
+python ecg_classification.py --regenerate-plots [options]
 ```
 
 Options:
@@ -144,7 +144,7 @@ Options:
 ├── test_results/
 │   ├── test_results_*.json
 │   └── test_confusion_matrix_*.png
-└── swin_b_improved_v2.py
+└── ecg_classification.py
 ```
 
 ## Implementation Details
