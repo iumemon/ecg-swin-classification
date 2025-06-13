@@ -282,6 +282,20 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## Citation
+
+If you use this code in your research, please cite:
+```bibtex
+@software{memon_ecg_swin_2024,
+  author = {Memon, Irfanullah},
+  title = {ECG Classification using Swin Transformer},
+  year = {2024},
+  publisher = {GitHub},
+  url = {https://github.com/iumemon/ecg-swin-classification},
+  note = {An improved implementation of ECG classification using Swin Transformer V2 with enhanced class imbalance handling and atrial pattern recognition}
+}
+```
+
 ## Acknowledgments
 
 - Swin Transformer paper and implementation
