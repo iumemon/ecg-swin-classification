@@ -288,7 +288,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{memon_ecg_swin_2024,
   author = {Memon, Irfanullah},
-  title = {ECG Classification using Swin Transformer},
+  title = {swin\_b\_improved\_v2: Softened Sampler \& Class‐Balanced Focal Loss for ECG Classification},
   year = {2024},
   publisher = {GitHub},
   url = {https://github.com/iumemon/ecg-swin-classification},
