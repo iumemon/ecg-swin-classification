@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch
+*.pt
+*.pth
+*.ckpt
+checkpoints*/
+*.tar
+
+# Results and metrics
+results*/
+*_metrics*.json
+*_metrics*.png
+*_accuracy*.png
+*_curves*.png
+*_matrix*.png
+final_metrics.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Dataset (if you want to exclude it)
+dataset/
+test_results/
+
+# Logs
+*.log
+logs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Backup files
+* copy.py
+* copy.png 
